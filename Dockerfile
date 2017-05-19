@@ -1,6 +1,6 @@
 FROM node:6
 
-LABEL maintainer "Gleb Bahmutov"
+LABEL maintainer "Gleb Bahmutov https://github.com/bahmutov"
 
 # Need Xvfb
 RUN apt-get update --yes
